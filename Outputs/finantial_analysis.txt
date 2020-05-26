@@ -1,0 +1,7 @@
+Finantial Analysis
+-------------------------------
+Total # of Months: 86
+Net Total Profit: $38382578
+Average Monthly Change in Profit/Loss: $-2315.12
+Month of Greatest Profit: Feb-2012 $1926159
+Month of Greatest Loss: Sep-2013 $-2196167
